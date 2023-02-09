@@ -1,1 +1,1 @@
-copying html files from current directory that diddn't exist in parent directory
+deleting my_first_directory from /tmp
