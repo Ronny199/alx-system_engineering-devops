@@ -1,1 +1,1 @@
-listing long, hidden and /boot files
+script printing file type in a temporary file
