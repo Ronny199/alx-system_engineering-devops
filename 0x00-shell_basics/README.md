@@ -1,1 +1,1 @@
-script printing file type in a temporary file
+creating a symboli link in a workin directory
