@@ -1,1 +1,1 @@
-deleting betty from /tmp/my_first_directory
+cript changing working directory to the previous one
