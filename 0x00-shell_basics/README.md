@@ -1,1 +1,1 @@
-creating a symboli link in a workin directory
+copying html files from current directory that diddn't exist in parent directory
