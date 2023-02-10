@@ -1,1 +1,1 @@
-script addind execution permission to owner, group owner and users
+script setting the mode of file
