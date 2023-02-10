@@ -1,1 +1,1 @@
-script printing effective username of the current user
+granting execution permission to owner and group, read only to user
