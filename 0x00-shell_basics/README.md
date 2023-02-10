@@ -1,1 +1,1 @@
-script listing all files including hidden in the current directory and parent directory
+creating symbolic link _ls_ to /bin/ls
