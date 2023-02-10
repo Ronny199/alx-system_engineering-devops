@@ -1,1 +1,1 @@
-script changing the group owner to school for the hello-file
+script adding execution permission to owner and group but only read petmission to users
