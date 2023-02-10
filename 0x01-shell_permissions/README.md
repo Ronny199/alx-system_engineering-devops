@@ -1,1 +1,1 @@
-changing owner and group owner of a file to vincent and staff rsèctively
+changing ownership of hello to betty only if it is owned by guillaume
