@@ -1,1 +1,1 @@
-script deleting all files in current directory ending with ~ char
+script creating directories in the current directory
