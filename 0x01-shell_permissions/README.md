@@ -1,1 +1,1 @@
-granting execution permission to all subdirectories of the current directory to the owner, group and all users
+changing owner and group owner of a file to vincent and staff rsèctively
