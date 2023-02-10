@@ -1,1 +1,1 @@
-script changing owner of hello file to user betty
+ script changing ownership of file hello to the user betty
