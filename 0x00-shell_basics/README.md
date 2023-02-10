@@ -1,1 +1,1 @@
-deleting my_first_directory from /tmp
+listing hidden files in long format
