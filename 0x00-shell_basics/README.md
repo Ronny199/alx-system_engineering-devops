@@ -1,1 +1,1 @@
-listing hidden files in long format
+delete the file betty
