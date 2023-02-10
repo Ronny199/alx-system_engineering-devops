@@ -1,1 +1,1 @@
-granting execution permission to owner and group, read only to user
+ allow execution permission to owner and group, read only permission to users
