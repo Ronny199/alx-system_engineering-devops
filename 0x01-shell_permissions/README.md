@@ -1,1 +1,1 @@
-script setting the mode of file
+script adding execution permission to all subdirectories in current directory for owner, group and users
