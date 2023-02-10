@@ -1,1 +1,1 @@
-command listing all files and directories separate by commas in the current directory
+creating magic file that can be used with command file to detect data files
