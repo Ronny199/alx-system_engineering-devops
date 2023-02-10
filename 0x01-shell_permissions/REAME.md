@@ -1,1 +1,1 @@
-changing owner to vincent and group owner to staff for all files and directories
+write a script that wt will play StarWars IV in the terminal
