@@ -1,1 +1,1 @@
-Write a script that displays all users and their home directories, sorted by users
+script printing “Hello, World”, followed by a new line to the standard output.
